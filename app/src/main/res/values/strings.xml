@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">F2Cconverter</string>
+    <string name="title">Otsikko</string>
+    <string name="temperature">Temperatuure</string>
+    <string name="farenheit_to_celsius">Farenheit to Celsius</string>
+    <string name="celsius_to_farenheit">Celsius to Farenheit</string>
+</resources>
